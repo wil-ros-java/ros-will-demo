@@ -1,4 +1,4 @@
-package com.will_ros.controllers;
+package edu.ros_will.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

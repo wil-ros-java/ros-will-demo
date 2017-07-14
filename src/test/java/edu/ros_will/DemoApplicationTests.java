@@ -1,4 +1,4 @@
-package com.will_ros;
+package edu.ros_will;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

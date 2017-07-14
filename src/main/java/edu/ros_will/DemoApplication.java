@@ -1,4 +1,4 @@
-package com.will_ros;
+package edu.ros_will;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
